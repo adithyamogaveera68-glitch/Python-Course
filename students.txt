@@ -1,0 +1,6 @@
+Name	Marks
+Ravi	85
+Sita	92
+Arun	78
+Priya	88
+Kiran	95
